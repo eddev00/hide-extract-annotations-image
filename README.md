@@ -1,0 +1,1 @@
+# hide-extract-annotations-image
